@@ -1,0 +1,10 @@
+en:
+  ricer4:
+    plugins:
+      imgur:
+        
+        imgur:
+          trigger: imgur
+          description: "Show a random image from imgur.com. Nice!"
+          msg_image: "%{image}"
+
